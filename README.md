@@ -8,5 +8,5 @@ The purpose of this project was to help my client analyze the stock market over 
 
 **Results**
 After refactoring the code and running the program successfully, it was surprising to see the significant change year of year in the stocks as you can see in the images below.  For the ease of review, I have put 2017 and 2018 stocks side by side.
-
+![](/Comparison.png)
 
