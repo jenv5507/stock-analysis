@@ -8,8 +8,12 @@ The purpose of this project was to help my client analyze the stock market over 
 
 **Results**
 After refactoring the code and running the program successfully, I was able to reduce the time to run the program. It is surprising to see the amount of time that was reduced to run the program with the refactoring.  Below are screenshots showing the before and after run time for the stock analysis for each year.
-                                                     
+      
+![](/Resources/2017_Prior.png)      
+      
 ![](/Resources/VBA_Challenge_2017.png)
+
+![](/Resources/2018_Prior.png)
 
 ![](/Resources/VBA_Challenge_2018.png)
 
