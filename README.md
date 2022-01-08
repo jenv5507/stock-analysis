@@ -1,12 +1,11 @@
-# stock-analysis
-
-
 # An Analysis of Stocks
  
 **Overview of Project**
+
 The purpose of this project was to help my client analyze the stock market over the last few years.  The current file has 2 years of data for 12 stocks in it but would like to enhance his research and compare more stocks.  To do this, it required refactoring of the current VBA code provided so that the data runs efficiently and the output is executed quickly.
 
 **Results**
+
 After refactoring the code and running the program successfully, I was able to reduce the time to run the program. It is surprising to see the amount of time that was reduced to run the program with the refactoring.  Below are screenshots showing the before and after run time for the stock analysis for each year.
 
 
