@@ -7,7 +7,7 @@
 The purpose of this project was to help my client analyze the stock market over the last few years.  The current file has 2 years of data for 12 stocks in it but would like to enhance his research and compare more stocks.  To do this, it required refactoring of the current VBA code provided so that the data runs efficiently and the output is executed quickly.
 
 **Results**
-After refactoring the code and running the program successfully, I was able to reduce the time to run the program. Below are screenshots of the time it took to run the analysis for 2017 and 2018.  
+After refactoring the code and running the program successfully, I was able to reduce the time to run the program. Below are screenshots of the time it took to run the analysis for 2017 and 2018 after the refactoring.  After refactoring the code and rerunning the program before refactoring, I could see
                                                      
 ![](/Resources/VBA_Challenge_2017.png)
 
