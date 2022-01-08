@@ -8,7 +8,10 @@ The purpose of this project was to help my client analyze the stock market over 
 
 **Results**
 After refactoring the code and running the program successfully, I was able to reduce the time to run the program. It is surprising to see the amount of time that was reduced to run the program with the refactoring.  Below are screenshots showing the before and after run time for the stock analysis for each year.
-      
+
+
+![](/Resources/2017_Prior.png)
+      * Image of run time for 2017 analysis before refactoring.
 
 
 It was surprising to see the significant change year of year in the stocks as you can see in the images below.  For the ease of review, I have put 2017 and 2018 stocks side by side.  Out of all 12 stocks in 2017, there was only one that had a negative return which is ticker TERP.  Originally, the client was researching the ticker DQ which had the highest return out of all the stocks in 2017 but the lowest daily volume.  In 2018, all but two stocks had a negative return.
