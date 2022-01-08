@@ -18,6 +18,8 @@ After refactoring the code and running the program successfully, I was able to r
 - Image of run time for 2017 analysis after refactoring.
 
 
+
+
 ![](/Resources/2018_Prior.png)
 - Image of run time for 2018 analysis before refactoring.
 
