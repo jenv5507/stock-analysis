@@ -30,3 +30,9 @@ It was surprising to see the significant change year of year in the stocks as yo
 
 ![](/Resources/VBA_Comparison.png)
 
+**Summary**
+
+Refactoring code has its advantages and disadvantages.  Refactoring allows the developer to improve code and make it easier to understand and as shown in the challenge, it helps run the program faster.  The disadvantages can be the time put into refactoring and the end result being the same as we just witnessed.  Although we were able to reduce the time it took to run the program, we still had the same result.  Also, refactoring could introduce a bug which would also take more time to debug the code.
+
+The advantage of refactoring the stock analysis was that we reduced the time to run the stock analysis.  Another and rather important advantage was that it made it easier for me to understand by breaking down the steps and putting in comments to explain the purpose of the code.  The disadvantage for refactoring the code was that the result of the coding resulted in the same output.  Unless we were going to add a lot more stocks to the analysis, I do not think the time put into refactoring was worth it.  
+
